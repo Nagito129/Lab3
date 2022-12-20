@@ -139,21 +139,34 @@ int main() {
     cout << "\n\n\n       Задание 2";
     Sleep(1500);
     system("cls");
+
+    cout << "\n\n\n       Перестановка a";
+    Sleep(1500);
+    system("cls");
     SwapA(arr);
     Show(arr);
     Sleep(3000);
     system("cls");
 
+    cout << "\n\n\n       Перестановка b";
+    Sleep(1500);
+    system("cls");
     SwapB(arr);
     Show(arr);
     Sleep(3000);
     system("cls");
 
+    cout << "\n\n\n       Перестановка c";
+    Sleep(1500);
+    system("cls");
     SwapC(arr);
     Show(arr);
     Sleep(3000);
     system("cls");
 
+    cout << "\n\n\n       Перестановка d";
+    Sleep(1500);
+    system("cls");
     SwapD(arr);
     Show(arr);
     system("pause");
