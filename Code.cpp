@@ -127,7 +127,6 @@ int main() {
     srand(time(NULL));
     int arr[n][n], sortarr[n][n];
     int* end = arr[0] + n * n - 1;
-
     //Задание 1
     cout << "\n\n\n       Задание 1";
     Sleep(1500);
